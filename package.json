@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-s3-upload-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "giangmd",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.705.0",
+    "fs": "0.0.1-security",
+    "mime": "^2.4.6",
+    "uuid": "^8.2.0"
+  }
+}
