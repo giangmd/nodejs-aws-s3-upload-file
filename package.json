@@ -9,7 +9,7 @@
   "author": "giangmd",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.705.0",
+    "aws-sdk": "^2.814.0",
     "fs": "0.0.1-security",
     "mime": "^2.4.6",
     "uuid": "^8.2.0"
